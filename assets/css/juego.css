@@ -1,0 +1,25 @@
+.gameCanvas{
+    left: 10px;
+}
+
+.Fondo-menu{
+    background-image: url("../img/Fondo.gif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+/*
+.Fondo-juego{
+    background-image: url("../img/Fondo.gif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+*/
+.Fondo-end{
+    background-image: url("../img/Fondo.gif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
